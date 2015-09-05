@@ -1,0 +1,29 @@
+h1, h2, h3, h4, p {
+	text-align: center;
+}
+
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.btn {
+	margin-left: 33.5%;
+}
+
+.jumbotron {
+	margin-top: 55px;
+}
+
+#mainNav {
+    border-color: transparent;
+}
+
+#navbar .nav li a {
+    color: #000000;
+}
+
+#duh {
+	margin-top: 50px;
+}
+
