@@ -27,3 +27,47 @@ body {
 	margin-top: 50px;
 }
 
+#rwp {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url('img/Rafael.jpg') no-repeat;
+	margin-left: 25%;
+}
+
+#rsp {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url('img/Rohan.jpg') no-repeat;
+	margin-left: 25%;
+}
+
+#cfp {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url('img/Connor.jpg') no-repeat;
+	margin-left: 25%;
+}
+
+#jdp {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url('img/Jacob.jpg') no-repeat;
+	margin-left: 25%;
+}
+
+#wa {
+	color: #000000
+}
+
